@@ -43,7 +43,7 @@ function create() {
 
 
 	var coin = this.add.sprite(250, 50, "coin_rotate_1");
-	coin.setScale(0.025);
+	coin.setScale(0.2);
 
 	var text = this.add.text(300, 50, '0', {fontSize: 30 });
 	text.setOrigin(0.5, 0.5);
