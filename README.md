@@ -5,11 +5,13 @@ so if you know the language, please do check out the videos if interested.
 
 1. **Cookie Clicker**
 * A clicker game to learn the basics of phaser.
-[Youtube Link](https://www.youtube.com/watch?v=Opw-LthMjQI "Cookie Clicker Tutorial")
+[Youtube Link](https://www.youtube.com/watch?v=Opw-LthMjQI "Cookie Clicker Tutorial, [Tamil]")
+[Try the game](https://123survesh.github.io/simple_phaser_games/cookie/ "Cookie Clicker")
 
 2. **Little Adventures**
 * A platformer game to learn creating a platformer level with Phaser and Tiled.
-[Youtube Link](https://www.youtube.com/watch?v=hgGvDHy4WdY&t=1117s "Little Adventures Platformer Tutorial")
+[Youtube Link](https://www.youtube.com/watch?v=hgGvDHy4WdY&t=1117s "Little Adventures Platformer Tutorial, [Tamil]")
+[Try the game](https://123survesh.github.io/simple_phaser_games/platformer/ "Little Adventures Platformer")
 
 ## How to run the games
 1. Clone the repo to your computer
