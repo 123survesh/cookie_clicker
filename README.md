@@ -9,7 +9,7 @@ __|__ [Youtube Link](https://www.youtube.com/watch?v=Opw-LthMjQI "Cookie Clicker
 __|__ [Try the game](https://123survesh.github.io/simple_phaser_games/cookie/ "Cookie Clicker") __|__
 
 2. **Little Adventures**
-* A platformer game to learn creating a platformer level with Phaser and Tiled.
+* A platformer game to learn the basics of side scrolling platformer with simple collision and physics, and levels created with tiled editor.
 __|__ [Youtube Link](https://www.youtube.com/watch?v=hgGvDHy4WdY&t=1117s "Little Adventures Platformer Tutorial, [Tamil]")
 __|__ [Try the game](https://123survesh.github.io/simple_phaser_games/platformer/ "Little Adventures Platformer") __|__
 
